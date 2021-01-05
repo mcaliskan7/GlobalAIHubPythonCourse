@@ -1,4 +1,4 @@
-# GlobalAIHubPythonHomework
+# GlobalAIHubPythonCourse
 
 ![Global AI Hub](logo.png)
 
